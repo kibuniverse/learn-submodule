@@ -1,0 +1,6 @@
+[submodule "website-api"]
+	path = website-api
+	url = git@github.com:XiyouMobile/website-api.git
+[submodule "blog"]
+	path = blog
+	url = git@github.com:kibuniverse/blog.git
